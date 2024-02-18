@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "full_name": "Admin",
+            "email": "admin@default.com",
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "full_name": "Assistant Admin",
+            "email": "a_admin@default.com",
+            "username": "a_admin",
+            "password": "admin1"
+        },
+        {
+            "full_name": "Devpriya Shivani",
+            "email": "dpshiv12@gmail.com",
+            "username": "devpriyash",
+            "password": "$2b$12$TRkEqk2rpcoXVaZ67lPaDuEVMjlzj1fjm5qrTv2pjlO03CrL4BjCm"
+        },
+        {
+            "full_name": "Devpriya Shivani",
+            "email": "dpshiv12@gmail.com",
+            "username": "devpriyash",
+            "password": "$2b$12$3OBRypSuuXakCeABkFTsEOOgj31frw7RHLxly2Lg9W1KBJex.0KfC"
+        },
+        {
+            "full_name": "Devpriya Shivani",
+            "email": "dpshiv12@gmail.com",
+            "username": "devpriyash",
+            "password": "$2b$12$dMfExLJDIREEVJBhC3dTyeVnHuDxc8.Ba0qIgIGUVAq1lc.NTDyvO"
+        }
+    ]
+}
