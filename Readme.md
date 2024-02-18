@@ -287,4 +287,4 @@ Thank you for your interest in contributing to this project!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed.
