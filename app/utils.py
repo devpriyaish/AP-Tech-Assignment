@@ -3,12 +3,10 @@ import bcrypt
 from fastapi import HTTPException, Header, status
 import jwt
 
-from decouple import config
 from datetime import datetime, timedelta
 
-
-JWT_SECRET = config('JWT_SECRET')
-JWT_ALGORITHM = config('JWT_ALGORITHM')
+JWT_SECRET = '7f2ab4670ae6c2085d31bcfe56766148'
+JWT_ALGORITHM = HS256
 
 
 async def hash_password(password: str) -> str:
